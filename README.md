@@ -7,3 +7,5 @@ A solução em Elasticidade e Elasto-plasticidade (deslocamento radial $u$ e ten
 QUEVEDO, F. P. M. <b>Análise Computacional das Deformações em Túneis Profundos considerando o Acoplamento Plasticidade-Viscoplasticidade</b>. 2021. 226p. Tese (Doutorado em Engenharia) – Programa de Pós-Graduação em Engenharia Civil, Universidade Federal do Rio Grande do Sul, Porto Alegre.
 
 QUEVEDO, F. P. M.; BERNAUD, D.; MAGHOUS, S. <b>Notas de Aula - Tópicos de Problemas de Interação Solo-Estrutura</b>. 2023. Universidade Federal do Rio Grande do Sul, Porto Alegre.
+
+de SOUZA NETO, E. A.; PERI, D.; OWEN, D. R. J. <b>Computational Methods for Plasticity</b>. Chichester, UK: John Wiley and Sons, Ltd, 2008. 791 p. ISBN 9780470694626.
